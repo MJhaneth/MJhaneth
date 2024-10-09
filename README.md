@@ -1,4 +1,4 @@
-- 👋 **Hola, soy MJhaneth**
+- 👋 **Hola, soy Jhaneth Mamani**
 - 👀 **Estoy interesado en:** desarrollo web, inteligencia artificial, codigo abierto
 - 🌱 **Actualmente estoy aprendiendo:** Java, Python
 
